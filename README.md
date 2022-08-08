@@ -20,11 +20,11 @@ C++ implementation for Close-distance Duration Similarity (CDDS) of trajectories
 
 P.S. The purpose of this repository is to provide an implementation of CDDS spatio-temporal trajectory similarity (cf. Definition 3.1 in the aforementioned paper). Thus, we removed the redundant parts from the orginal implementation, such as STS-Index and STS-Join.
 
-#### Requirements
+### Requirements
 
 - Linux with g++ (supporting c++11, e.g., g++ 8.4.0)
 
-#### Quick Start
+### Quick Start
 
 ```bash
 make clean && make
